@@ -86,9 +86,9 @@ In my career I have built:
     * Ansible
     * CI/CD Jenkins Pipelines
   * **[Compute & Analytics](#)**
-    * Virtual Machines (Azure VM, Amazon EC2)
-    * Azure Databricks (Python, Scala)
-    * Elastic MapReduce (EMR) ETL's
+    * Virtual Machines ( Azure VM, Amazon EC2 )
+    * Azure Databricks ( Python, Scala )
+    * Elastic MapReduce ( EMR ) ETL's
     * AWS Lambda functions
     * Splunk
     * EKS
@@ -98,32 +98,32 @@ In my career I have built:
     * CloudWatch
     * CloudFormation templates for multi-server deployments
   * **[Networking](#)**
-    * Content Delivery Network (CDN)
-    * Virtual Private Cloud (VPC)
+    * Content Delivery Network ( CDN )
+    * Virtual Private Cloud ( VPC )
     * Load Balancer
     * Subnet / VLAN
     * Route 53
   * **[Security, Identity & Compliance](#)**
     * Security groups
-    * Access Control List (ACL)
-    * Key Management Service (KMS)
-    * Identity and Access Management (IAM)
+    * Access Control List ( ACL )
+    * Key Management Service ( KMS )
+    * Identity and Access Management ( IAM )
   * **[Storage](#)**
-    * Common Internet File System (CIFS)
-    * Simple Storage Service (S3)
-    * Server Message Block (SMB)
-    * Elastic File System (EFS)
-    * Network File Share (NFS)
+    * Common Internet File System ( CIFS )
+    * Simple Storage Service ( S3 )
+    * Server Message Block ( SMB )
+    * Elastic File System ( EFS )
+    * Network File Share ( NFS )
     * S3 / Glacier
   * **[Databases](#)**
     * Redis
     * MySQL
     * PostgreSQL
     * ElasticSearch
-    * Relational Database Service (RDS)
+    * Relational Database Service ( RDS )
   * **[Application Integration](#)**
-    * Simple Notification Service (SNS)
-    * Simple Queue Service (SQS)
+    * Simple Notification Service ( SNS )
+    * Simple Queue Service ( SQS )
 
 
 <br/>
@@ -146,7 +146,7 @@ In my career I have built:
   * Go ( learning )
   * Rust ( learning )
 * **[Software](#)**
-  * Kubernetes ( K8s / Rancher)
+  * Kubernetes ( K8s / Rancher )
   * Putty / SSH
   * Blender
   * Jenkins
