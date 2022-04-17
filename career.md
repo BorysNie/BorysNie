@@ -25,8 +25,8 @@ Sample of examples can be found ***[here](code_examples.md)***.
 ## **Languages**
 * ***[Polish](#)*** - Native
 * ***[English](#)*** - Proficient
+* ***[German](#)*** - Intermediate
 * ***[Russian](#)*** - Basic
-* ***[German](#)*** - Basic
 
 
 <br/>
@@ -41,13 +41,13 @@ In my career I have built:
   * Cross-platform apps / scripts with version control
 * **[Background Jobs / Services](#)**:
   * Cron
-  * Services
   * Pipelines
-  * Headless app installers ( Msi / Quattor )
+  * Services / Initd
+  * Headless app installers ( Scripts )
 * **[Scrapers](#)** for:
   * Documents ( doc, html, csv, xml, json, etc.. )
+  * Websites / API's ( REST )
   * E-mails
-  * API's
 * **[API's](#)** with:
   * Many versions / iterations
   * Multiple formats, like:
@@ -59,6 +59,7 @@ In my career I have built:
   * E-mails
   * Social Networks
 * **[Cloud Platforms](#)** using:
+  * Google Cloud Platform
   * Microsoft Azure
   * Amazon AWS
 * **[Native Windows / Linux apps & services](#)**, like:
@@ -80,8 +81,10 @@ In my career I have built:
     * Writing wrappers / creating API's for internal use
     * Application specific API's provided by third party
   * **[Automation](#)**
+    * Git
+    * Splunk
     * Ansible
-    * CI/CD Pipelines
+    * CI/CD Jenkins Pipelines
   * **[Compute & Analytics](#)**
     * Virtual Machines (Azure VM, Amazon EC2)
     * Azure Databricks (Python, Scala)
@@ -90,6 +93,7 @@ In my career I have built:
     * Splunk
     * EKS
   * **[Management & Governance](#)**
+    * Splunk
     * CloudTrail
     * CloudWatch
     * CloudFormation templates for multi-server deployments
@@ -110,7 +114,7 @@ In my career I have built:
     * Server Message Block (SMB)
     * Elastic File System (EFS)
     * Network File Share (NFS)
-    * S3 Glacier
+    * S3 / Glacier
   * **[Databases](#)**
     * Redis
     * MySQL
@@ -120,8 +124,6 @@ In my career I have built:
   * **[Application Integration](#)**
     * Simple Notification Service (SNS)
     * Simple Queue Service (SQS)
-  * **[YouTube](#)**
-    * Download
 
 
 <br/>
@@ -138,19 +140,19 @@ In my career I have built:
     * Raspberry Pi
     * Windows console apps
   * Scala / Java
-    * Extract, Transform and Load (ETL)
+    * Extract, Transform and Load ( ETL )
   * Bash
   * PowerShell
-  * Go (learning)
-  * Rust (learning)
+  * Go ( learning )
+  * Rust ( learning )
 * **[Software](#)**
+  * Kubernetes ( K8s / Rancher)
+  * Putty / SSH
   * Blender
-  * Docker
-  * Git
-  * Kubernetes (K8s)
   * Jenkins
   * Postman
-  * Putty / SSH
+  * Docker
+  * Git
 
 
 <br/>
