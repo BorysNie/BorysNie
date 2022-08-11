@@ -1,4 +1,4 @@
-# **Borys Niedbala**
+# **BorysNie**
 #### Pragmatic DevOps engineer with :heart: for programming and automation.
 
 
@@ -90,8 +90,6 @@ In my career I have built:
     * Azure Databricks ( Python, Scala )
     * Elastic MapReduce ( EMR ) ETL's
     * AWS Lambda functions
-    * Splunk
-    * EKS
   * **[Management & Governance](#)**
     * Splunk
     * CloudTrail
@@ -114,7 +112,6 @@ In my career I have built:
     * Server Message Block ( SMB )
     * Elastic File System ( EFS )
     * Network File Share ( NFS )
-    * S3 / Glacier
   * **[Databases](#)**
     * Redis
     * MySQL
@@ -146,13 +143,11 @@ In my career I have built:
   * Go ( learning )
   * Rust ( learning )
 * **[Software](#)**
-  * Kubernetes ( K8s / Rancher )
+  * Kubernetes ( K8s / Portainer )
   * Putty / SSH
+  * Insomnia
   * Blender
-  * Jenkins
-  * Postman
   * Docker
-  * Git
 
 
 <br/>
@@ -160,7 +155,6 @@ In my career I have built:
 
 ## **Technologies I Would Like to Learn**
 * SR-IOV
-* Unit testing
 * Hardware / Embedded systems
 * Advanced AI / Machine Learning
 

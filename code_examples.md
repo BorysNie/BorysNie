@@ -1,4 +1,4 @@
-# **Borys Niedbala** - Code examples
+# **BorysNie** - Code examples
 
 ```python
 # Python
